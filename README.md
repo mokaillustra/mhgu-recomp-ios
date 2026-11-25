@@ -25,6 +25,17 @@ Download the stable IPA from the [MHGUiOS Recomp v1.0.0 release](https://github.
 - An iOS app installer that can sign and install IPA files, or [LiveContainer](https://livecontainer.github.io/docs/installation) set up according to its official guide.  
   Aplikasi pemasang iOS yang bisa memasang IPA, atau [LiveContainer](https://livecontainer.github.io/docs/installation) yang sudah disiapkan mengikuti panduan resminya.
 
+## Increased Memory Limit Entilement for Device with 4GB of RAM or Lower
+
+- iRAM https://github.com/NexSideloading/iRAM-Plus
+  This is a newer, actively maintained fork of GetMoreRam featuring a cleaner interface and step-by-step setup wizard. In addition to Increased Memory Limit,
+  it also lets you toggle Extended Virtual Addressing for heavy emulators
+
+- GetMoreRAM https://github.com/hugeBlack/GetMoreRam
+  This is the original open-source utility created by one of LiveContainer's contributors. It performs the same Apple ID entitlement injection, though most users have migrated to iRAM+ for its updated UI.
+
+  Both tools connect to your Apple ID developer profile to patch the memory entitlement onto your sideloaded apps without needing a PC or Mac.
+
 ## Installation instructions / Petunjuk instalasi
 
 <details>
