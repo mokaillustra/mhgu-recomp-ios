@@ -138,7 +138,7 @@ This iOS fork preserves credit for the projects and contributors it builds on:
 - [MHGURecomp](https://github.com/morerokk/MHGURecomp) — original recompiler and runtime.
 - [Khorne's `gu-native`](https://github.com/khorne-hub/gu-native) — source project and mobile runtime work.
 - [MHGURecomp-iOS](https://github.com/cerroverb/MHGURecomp-iOS) — iOS build and platform reference, including earlier iOS contributions credited in that project.
-- iOS integration and this fork are maintained by **Moka Illustra**.
+- iOS integration and this fork are maintained by [**Moka Illustra**](ttps://github.com/mokaillustra)
 
 This combined repository does not have one license that replaces the component licenses. Read [LICENSE](LICENSE), [THIRD_PARTY_NOTICES](THIRD_PARTY_NOTICES), [ios/IOS_BASE_MIT_LICENSE.txt](ios/IOS_BASE_MIT_LICENSE.txt), [ios/PORT_NOTICES.txt](ios/PORT_NOTICES.txt), and upstream license terms before using or redistributing code. Preserve each project's notices and obtain any permissions required by those terms.
 
