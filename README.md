@@ -35,6 +35,7 @@ Download the stable IPA from the [MHGUiOS Recomp v1.0.0 release](https://github.
   This is the original open-source utility created by one of LiveContainer's contributors. It performs the same Apple ID entitlement injection, though most users have migrated to iRAM+ for its updated UI.
 
   Both tools connect to your Apple ID developer profile to patch the memory entitlement onto your sideloaded apps without needing a PC or Mac.
+  If u use livecontainer with iloader, the newest version is already have Increased Memory Limit Entilement
 
 ## Installation instructions / Petunjuk instalasi
 
