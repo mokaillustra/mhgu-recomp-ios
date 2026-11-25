@@ -27,15 +27,15 @@ Download the stable IPA from the [MHGUiOS Recomp v1.0.0 release](https://github.
 
 ## Increased Memory Limit Entilement for Device with 4GB of RAM or Lower
 
-- iRAM https://github.com/NexSideloading/iRAM-Plus
+- [iRAM+](https://github.com/NexSideloading/iRAM-Plus)
   This is a newer, actively maintained fork of GetMoreRam featuring a cleaner interface and step-by-step setup wizard. In addition to Increased Memory Limit,
   it also lets you toggle Extended Virtual Addressing for heavy emulators
 
-- GetMoreRAM https://github.com/hugeBlack/GetMoreRam
+- [GetMoreRAM](https://github.com/hugeBlack/GetMoreRam)
   This is the original open-source utility created by one of LiveContainer's contributors. It performs the same Apple ID entitlement injection, though most users have migrated to iRAM+ for its updated UI.
 
   Both tools connect to your Apple ID developer profile to patch the memory entitlement onto your sideloaded apps without needing a PC or Mac.
-  If u use livecontainer with iloader, the newest version is already have Increased Memory Limit Entilement
+  If you are using [LiveContainer + SideStore](https://livecontainer.github.io/docs/installation) with [iLoader](https://iloader.app/), the newest version is already have Increased Memory Limit Entilement
 
 ## Installation instructions / Petunjuk instalasi
 
